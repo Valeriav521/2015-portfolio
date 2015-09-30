@@ -1,0 +1,19 @@
+#navbar {
+    text-align:center;
+    
+}
+
+#navbar li{
+    display: inline-block;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+#navbar a{
+    
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
